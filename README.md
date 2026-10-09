@@ -78,14 +78,6 @@ No dataset downloads are needed because every notebook generates its own data.
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Apply these models to a **real dataset** (for example customer churn or house prices) with a full cleaning → modelling → evaluation write-up
-- [ ] Use `GridSearchCV` / `RandomizedSearchCV` inside a pipeline on that real dataset
-- [ ] Add A/B testing and hypothesis-testing notebooks
-
----
-
 ## 🔗 Related Projects
 
 - [Restaurant Data Analysis](https://github.com/saniyanoori/Restaurant-Data-Analysis): SQL + Python on restaurant sales
