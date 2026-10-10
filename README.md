@@ -66,8 +66,8 @@ Files are numbered in the order I learned the topics. Notebooks marked **Project
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/saniyanoori/classical-ML.git
-cd classical-ML
+git clone https://github.com/saniyanoori/Classical-Machine-Learning-Algorithms.git
+cd classical-Machine-Learning-Algorithms
 python -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
